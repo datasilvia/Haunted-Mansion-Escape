@@ -34,7 +34,7 @@ Your team will develop the “Escape Room” game. Implement Python code, manage
 ## Room Layout Example
 
 
-![Example of a simple room layout](/images/escape-rpom-plan.jpg "Room Layout Example")
+![Example of a simple room layout](/images/escape-room-plan.jpg "Room Layout Example")
 
 ## Team Collaboration
 
